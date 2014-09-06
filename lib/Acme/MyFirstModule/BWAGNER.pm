@@ -39,7 +39,7 @@ if you don't export anything, such as for a purely object-oriented module.
 
 =cut
 
-subfunction1 {
+sub function1 {
 }
 
 =head2 function2
