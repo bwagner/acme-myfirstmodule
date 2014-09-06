@@ -10,7 +10,7 @@ Acme::MyFirstModule::BWAGNER - The great new Acme::MyFirstModule::BWAGNER!
 
 =head1 VERSION
 
-Version 0.01
+Version 0.03
 
 =cut
 
